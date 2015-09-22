@@ -1,0 +1,6 @@
+{ 
+    "obligatorio":"no", 
+    "versionCode":1, 
+    "versionName":"1.0", 
+    "downloadURL":"https://raw.githubusercontent.com/esnepy/Esnepy/master/app-release.apk" 
+} 
